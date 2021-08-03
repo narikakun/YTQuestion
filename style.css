@@ -1,0 +1,57 @@
+html {
+    text-align: center;
+}
+
+.title {
+    font-size: 2em;
+}
+
+.send {
+    display: inline-block;
+    padding: 0.2em 1.2em;
+    text-decoration: none;
+    color: #333333;
+    border: solid 2px #333333;
+    border-radius: 3px;
+    transition: .4s;
+    font-size: 1.5em;
+}
+
+.send:hover {
+    background: #333333;
+    color: white;
+}
+
+.c {
+    width: 60%;
+    height: 200px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+}
+
+.titlecreate {
+    width: 60%;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 3px;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+}
+
+.box1 {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+.box1 p {
+    margin: 0; 
+    padding: 0;
+}
+
+.nowcs {
+    font-size: 3em;
+}
